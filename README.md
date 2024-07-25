@@ -77,10 +77,10 @@ Divide the dataset into training and testing sets. The training set is used to t
 - The final model and scaler are saved as `model_ann_reg.h5` and `min_max_scaler.pkl`.
 
 ## Deployment
-- Deploy the model using a Streamlit app (app.py). The app allows users to input house data and get price predictions. To run the app, execute the following command:
+Deploy the model using a Streamlit app (app.py). The app allows users to input house data and get price predictions. To run the app, execute the following command:
 
   
-- This starts a web server and opens the app in the default web browser, enabling interaction with the model for house price predictions.
+This starts a web server and opens the app in the default web browser, enabling interaction with the model for house price predictions.
 ## Challenges and Solutions
 
 ### Data Cleaning
