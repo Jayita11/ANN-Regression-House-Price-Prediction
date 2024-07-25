@@ -90,6 +90,8 @@ The final graphs compare the actual house prices with the predicted prices for b
 ## Deployment
 Deploy the model using a Streamlit app (app.py). The app allows users to input house data and get price predictions. To run the app, execute the following command:
 
+![Animation_2](https://github.com/user-attachments/assets/d61ec3a8-34d5-41b9-8e78-2778c878a98d)
+
   
 This starts a web server and opens the app in the default web browser, enabling interaction with the model for house price predictions.
 ## Challenges and Solutions
