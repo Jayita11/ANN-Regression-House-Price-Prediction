@@ -43,6 +43,10 @@ The dataset used in this project is the California Housing Prices dataset. The f
 - Categorical variables are encoded using numerical mappings.
 - Features are scaled using Min-Max scaling.
 
+### Splitting Data
+
+Divide the dataset into training and testing sets. The training set is used to train the ANN, while the testing set is used to evaluate its performance.
+
 ### Model Building
 
 - An artificial neural network with two hidden layers is built using TensorFlow Keras.
@@ -86,7 +90,7 @@ To run this project, you need to have Python installed on your machine. Follow t
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/house-price-prediction.git
+    git clone https://github.com/yourusername/house-price-prediction.git](https://github.com/Jayita11/ANN-Regression-House-Price-Prediction
     cd house-price-prediction
     ```
 
