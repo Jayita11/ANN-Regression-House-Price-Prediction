@@ -60,6 +60,15 @@ Divide the dataset into training and testing sets. The training set is used to t
 
 - The model's performance is evaluated using mean absolute error and mean squared error metrics.
 
+  ![3](https://github.com/user-attachments/assets/dbc27b75-eee0-48aa-926b-098bbc5dac6d)
+  
+  ![4](https://github.com/user-attachments/assets/63dee67a-c366-4cc9-b898-7da1ba7acbd2)
+
+  ![5](https://github.com/user-attachments/assets/39506735-8cdc-4f4c-9d1f-e6e0d771e6c0)
+
+  ![6](https://github.com/user-attachments/assets/837dca2d-30ce-4f36-9286-c784dbb0674d)
+
+
 ## Results
 
 - The trained model can predict house prices with a reasonable degree of accuracy.
