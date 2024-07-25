@@ -56,9 +56,20 @@ Divide the dataset into training and testing sets. The training set is used to t
 - The model is trained using the RMSprop optimizer and mean squared error loss function.
 - Early stopping and tensor board callbacks are used to improve training.
 
+The following graphs show the training and validation loss and mean absolute error (MAE) over the epochs:
+
+#### Training and Validation Loss
+The first graph below shows the training and validation loss over 100 epochs. The loss decreases significantly during the initial epochs and then stabilizes, indicating that the model is learning and converging.
+
   ![3](https://github.com/user-attachments/assets/dbc27b75-eee0-48aa-926b-098bbc5dac6d)
+
+#### Training and Validation MAE
+The second graph displays the mean absolute error (MAE) for both training and validation sets over the epochs. The MAE decreases as the training progresses, showing that the model's predictions are becoming more accurate.
   
   ![4](https://github.com/user-attachments/assets/63dee67a-c366-4cc9-b898-7da1ba7acbd2)
+
+#### Actual vs Predicted Prices
+The final graphs compare the actual house prices with the predicted prices for both the training and validation datasets. The points should ideally align along the red diagonal line, indicating accurate predictions.
 
   ![5](https://github.com/user-attachments/assets/39506735-8cdc-4f4c-9d1f-e6e0d771e6c0)
 
