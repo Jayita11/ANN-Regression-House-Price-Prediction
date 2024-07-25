@@ -2,6 +2,9 @@
 
 This project aims to predict house prices using an Artificial Neural Network (ANN) model. The project includes data preprocessing, model training, and deployment using a Streamlit app.
 
+![image](https://github.com/user-attachments/assets/279cc55d-cdf0-4420-a04e-ee39c4601915)
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
