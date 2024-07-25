@@ -62,7 +62,6 @@ Divide the dataset into training and testing sets. The training set is used to t
 
   ![5](https://github.com/user-attachments/assets/39506735-8cdc-4f4c-9d1f-e6e0d771e6c0)
 
-  ![6](https://github.com/user-attachments/assets/837dca2d-30ce-4f36-9286-c784dbb0674d)
 
 ### Model Evaluation
 
