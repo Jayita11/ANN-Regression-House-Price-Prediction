@@ -68,6 +68,7 @@ Divide the dataset into training and testing sets. The training set is used to t
 
 - The model's performance is evaluated using mean absolute error and mean squared error metrics.
 
+![9](https://github.com/user-attachments/assets/97ba7064-1375-4f63-9d69-7f54f54fd93a)
 
 
 
