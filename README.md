@@ -131,11 +131,3 @@ To run this project, you need to have Python installed on your machine. Follow t
     pip install -r requirements.txt
     ```
 
-## Usage
-
-### Model Prediction
-
-To predict house prices using the pre-trained model, run the `predict_house_price.py` script:
-
-```sh
-python predict_house_price.py
