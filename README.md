@@ -93,6 +93,8 @@ The final graphs compare the actual house prices with the predicted prices for b
 ## Deployment
 Deploy the model using a Streamlit app (app.py). The app allows users to input house data and get price predictions. To run the app, execute the following command:
 
+https://ann-regression-house-price-prediction-a9fzp8yemstma6tah8sdtq.streamlit.app/
+
 ![Animation_2](https://github.com/user-attachments/assets/d61ec3a8-34d5-41b9-8e78-2778c878a98d)
 
   
